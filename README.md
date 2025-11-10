@@ -7,6 +7,7 @@
 
 
 **Overview**  
+
 Configure the abuse.ch integration (via the Elastic Agent) in Data management and tailor it for cyber‑fraud intelligence use‑cases. I’ll also highlight tuning and mapping that are specific to fraud/intel and exmaple correlations.  
 
 
@@ -14,9 +15,11 @@ Configure the abuse.ch integration (via the Elastic Agent) in Data management an
 **Sign up Elastic Cloud**  
 
 **Install Agent on Endpoint**  
+
 <img width="1267" height="467" alt="image" src="https://github.com/user-attachments/assets/5dc1db03-1333-40a4-a087-e37321b5e812" />  
 
 **Abuse.ch Integration**  
+
 Get Auth Key from abuse.ch account and input  
 
 <img width="885" height="792" alt="image" src="https://github.com/user-attachments/assets/3c695aa1-9c90-4232-9a0f-2d58baacf4dd" />  
@@ -28,6 +31,7 @@ Indicator lifecycle: The integration supports IoC expiration (via transforms) so
 
 
 **Abuse URLs**  
+
 <img width="1854" height="805" alt="image" src="https://github.com/user-attachments/assets/c3d73b0c-c2d0-4e44-8371-cd0cc850d1d7" />  
 
 Correlate with internal signals: For example, if you see a malicious URL in threat.indicator.url.full and you have a payment attempt that reached that URL (e.g. x2.ew-w3[.]ru), you can investigate the customer further.  
