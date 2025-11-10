@@ -13,6 +13,7 @@ Configure the abuse.ch integration (via the Elastic Agent) in Data management an
 **Sign up Elastic Cloud**  
 
 **Install Agent on Endpoint**  
+<img width="1267" height="467" alt="image" src="https://github.com/user-attachments/assets/5dc1db03-1333-40a4-a087-e37321b5e812" />  
 
 **Abuse.ch Integration**  
 
