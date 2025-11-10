@@ -30,11 +30,15 @@ Indicator lifecycle: The integration supports IoC expiration (via transforms) so
 **Abuse URLs**  
 <img width="1854" height="805" alt="image" src="https://github.com/user-attachments/assets/c3d73b0c-c2d0-4e44-8371-cd0cc850d1d7" />  
 
+Correlate with internal signals: For example, if you see a malicious URL in threat.indicator.url.full and you have a payment attempt that reached that URL (e.g. x2.ew-w3[.]ru), you can investigate the customer further.  
+
 <img width="1792" height="964" alt="image" src="https://github.com/user-attachments/assets/f0911ca5-2907-4074-88a9-98a9fbcef9fd" />
 
-Correlate with internal signals: For example, if you see a malicious URL in threat.indicator.url.full and you have a payment attempt that reached that URL (e.g. x2.ew-w3[.]ru), you can investigate further.  
-
 Use “indicator match” rules: The built‑in detection rule type Threat Intel IP/URL/Domain indicator match is a strong base. Modify to include your fraud‑relevant data sources.  
+
+<img width="1870" height="939" alt="image" src="https://github.com/user-attachments/assets/f104e8ce-522d-42b8-ace4-5b36dcc303ab" />  
+
+<img width="1202" height="692" alt="image" src="https://github.com/user-attachments/assets/2aff26ae-8f62-4b39-8f87-954ffa57ce4f" />  
 
 Monitoring & dashboards: Use dashboards to track how many indicator matches occur, which accounts/devices are involved, trends over time.  
 
