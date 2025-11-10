@@ -7,6 +7,8 @@
 **Install Agent**  
 <img width="1623" height="847" alt="image" src="https://github.com/user-attachments/assets/e9077936-f6c2-41d9-a117-b0e6fb2f3571" />  
 
+**Abuse URLs**  
+<img width="1854" height="805" alt="image" src="https://github.com/user-attachments/assets/c3d73b0c-c2d0-4e44-8371-cd0cc850d1d7" />  
 
 
 **References**  
