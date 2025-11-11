@@ -51,7 +51,7 @@ Monitoring & dashboards: Use dashboards to track how many indicator matches 
 
 **Further work**
 
-Setup a MISP (Threat Intel Platform) server for better results
+Setup MISP (Threat Intel Platform) server for better results
 
 1. Threat feed → Elastic directly (current)
 
@@ -77,7 +77,7 @@ This is simpler, but much more limited:
    ↓
 [Elastic Security / SIEM] — indicator matching, alerting, dashboards
 
-You ingest threat intel feeds (STIX/TAXII, CSV, JSON, etc.) into MISP, and then forward curated or correlated IOCs to Elastic Security.  
+You ingest threat intel feeds (STIX/TAXII, CSV, JSON, etc.) into MISP for enrichment, correlation, and sharing hub, and then forward curated or correlated IOCs to Elastic Security.  
 
 **References**  
 https://www.elastic.co/cloud  
