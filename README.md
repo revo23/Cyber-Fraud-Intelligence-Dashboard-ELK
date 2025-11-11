@@ -71,11 +71,11 @@ This is simpler, but much more limited:
 
 2. Threat feed → MISP → Elastic (recommended for most)
 
-[Feeds / Sources]
+`[Feeds / Sources]
    ↓
 [MISP] — enrichment, deduplication, tagging, correlation, sharing
    ↓
-[Elastic Security / SIEM] — indicator matching, alerting, dashboards
+[Elastic Security / SIEM] — indicator matching, alerting, dashboards`
 
 You ingest threat intel feeds (STIX/TAXII, CSV, JSON, etc.) into MISP for enrichment, correlation, and sharing hub, and then forward curated or correlated IOCs to Elastic Security.  
 
