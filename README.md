@@ -63,7 +63,7 @@ External signal: threat.indicator.ip = "185.42.42[.]42"
 
 Internal signal: Multiple failed logins from that IP across different bank accounts due to credential stuffing campaign
 
-**Further work**
+**Future work**
 
 Setup MISP (Threat Intel Platform) server for better results
 
